@@ -1,0 +1,11 @@
+{
+  "name": "taller-git-ci",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  }
+}
